@@ -1,0 +1,228 @@
+/* body {
+  background-color: rgb(195, 227, 197); 
+  margin: 0;
+  padding: 0;
+}
+
+.header {
+  height: 100px;
+  background-color: black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: sticky;
+  top: 0;
+  left: 0;
+}
+
+#maindiv {
+  width: 1264px;
+  height: 90px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border: solid black 5px;
+  padding: 0 20px;
+}
+
+.appname {
+  display: flex;
+  flex-direction: column;
+  color: white;
+}
+
+.appname h1 {
+  margin: 0;
+  font-size: 20px;
+  line-height: 1.1;
+  font-weight: 600;
+}
+
+.applogo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#applogo {
+  height: 80px;
+  width: 80px;
+  object-fit: cover;
+  border-radius: 10px;
+}
+
+.search-container {
+  flex-grow: 1;
+  max-width: 500px;
+  margin: 0 40px;
+  display: flex;
+  background-color: white;
+  border-radius: 25px;
+  overflow: hidden;
+  border: 1px solid #ccc;
+}
+
+.search-box {
+  flex: 1;
+  padding: 10px;
+  border: none;
+  outline: none;
+  font-size: 16px;
+}
+
+.search-button {
+  padding: 10px 15px;
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.search-button:hover {
+  background-color: #45a049;
+}
+
+.auth-buttons {
+  display: flex;
+  gap: 10px;
+}
+
+.btn {
+  text-decoration: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  background-color: #f0f0f0;
+  color: #333;
+  font-weight: bold;
+  transition: background-color 0.3s;
+}
+
+.btn:hover {
+  background-color: #ddd;
+}
+
+.signup {
+  background-color: #4CAF50;
+  color: white;
+}
+
+.signup:hover {
+  background-color: #45a049;
+}
+
+.midsection{
+    color: rgb(rgb(148, 202, 121), green, blue);
+}
+
+.nav-menu {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #fdfdfd;
+  border-top: 1px solid #eee;
+  border-bottom: 1px solid #eee;
+  padding: 12px 0;
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.nav-menu a {
+  text-decoration: none;
+  margin: 0 20px;
+  color: #111;
+  transition: color 0.2s ease-in-out;
+}
+
+.nav-menu a:hover {
+  color: #4CAF50;
+}
+
+.nav-menu .deals {
+  color: red;
+}
+
+.main-section{
+    height: 800px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.home-image{
+    height: 800px;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+.quality{
+    height: 70px;
+    background-color: white;
+    border: solid;
+    display: flex;
+    justify-content: center;
+}
+
+.quality-1{
+    color: black;
+    align-items: center;
+}
+
+.features {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #fff;
+  padding: 40px 20px;
+  flex-wrap: wrap;
+}
+
+.feature-card {
+  background-color: #f7f7f7;
+  border-radius: 10px;
+  padding: 20px;
+  margin: 10px;
+  width: 250px;
+  text-align: center;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.feature-card img {
+  width: 60px;
+  height: 60px;
+  margin-bottom: 15px;
+}
+
+.feature-card h3 {
+  margin: 10px 0 5px;
+  font-size: 18px;
+  color: #333;
+}
+
+.feature-card p {
+  font-size: 14px;
+  color: #666;
+}
+
+.footer {
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding: 25px 10px;
+  margin-top: 40px;
+}
+
+.footer-links {
+  margin-top: 10px;
+}
+
+.footer-links a {
+  color: #ccc;
+  margin: 0 12px;
+  text-decoration: none;
+  font-size: 14px;
+}
+
+.footer-links a:hover {
+  color: #4CAF50;
+} */
